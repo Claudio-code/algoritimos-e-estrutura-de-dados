@@ -26,6 +26,9 @@
 - [Matrizes](#matrizes) :heavy_multiplication_x:
 
 
+<hr>
+
+<a id="pilha"></a>
 ### :large_orange_diamond: Pilha
 
 #### Estrutura
