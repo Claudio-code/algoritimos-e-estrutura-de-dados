@@ -14,13 +14,21 @@
 
 - [Objetivo](#objetivo)
 
-- [Pilha](#pilha)
-- [Fila](#fila)
-- [Fila de Prioridades](#fila-de-prioridades)
-- [Deque](#deque)
-- [Disionario](#disionario)
-- [Tabela Hash](#tabela-hash)
-- [Heap Binaria](#heap-binaria)
-- [Arvore Binaria](#arvore-binaria)
-- [Lista Ligada](#lista-ligada)
-- [Matrizes](#matrizes)
+- [Pilha](#pilha) :heavy_check_mark:
+- [Fila](#fila) :heavy_multiplication_x:
+- [Fila de Prioridades](#fila-de-prioridades) :heavy_multiplication_x:
+- [Deque](#deque) :heavy_multiplication_x:
+- [Disionario](#disionario) :heavy_multiplication_x:
+- [Tabela Hash](#tabela-hash) :heavy_multiplication_x:
+- [Heap Binaria](#heap-binaria) :heavy_multiplication_x:
+- [Arvore Binaria](#arvore-binaria) :heavy_multiplication_x:
+- [Lista Ligada](#lista-ligada) :heavy_multiplication_x:
+- [Matrizes](#matrizes) :heavy_multiplication_x:
+
+
+### :large_orange_diamond: Pilha
+
+#### Estrutura
+
+- Adiciona dados no fim da pilha e remove dados no fim dela também ou onde o ultimo a entra é o primeiro a sair.
+- Alem de funcionalidades extras como consultar o tamanho e o topo da pilha e se ela está vazia ou não.
