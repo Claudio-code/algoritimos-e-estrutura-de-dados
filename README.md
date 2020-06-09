@@ -35,3 +35,5 @@
 
 - Adiciona dados no fim da pilha e remove dados no fim dela também ou onde o ultimo a entra é o primeiro a sair.
 - Alem de funcionalidades extras como consultar o tamanho e o topo da pilha e se ela está vazia ou não.
+
+<hr>
