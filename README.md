@@ -23,7 +23,8 @@
 - [Heap Binaria](#heap-binaria) :heavy_multiplication_x:
 - [Arvore Binaria](#arvore-binaria) :heavy_multiplication_x:
 - [Lista Ligada](#lista-ligada) :heavy_multiplication_x:
-- [Matrizes](#matrizes) :heavy_multiplication_x:
+- [Grafos](#grafos) :heavy_multiplication_x:
+- [Grafos](#grafos) :heavy_multiplication_x:
 
 
 <hr>
