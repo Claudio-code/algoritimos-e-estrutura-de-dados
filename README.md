@@ -16,8 +16,8 @@
 
 - [Pilha](#pilha) :heavy_check_mark:
 - [Fila](#fila) :heavy_check_mark:
+- [Deque](#deque) :heavy_check_mark:
 - [Fila de Prioridades](#fila_de_prioridades) :heavy_multiplication_x:
-- [Deque](#deque) :heavy_multiplication_x:
 - [Disionario](#disionario) :heavy_multiplication_x:
 - [Tabela Hash](#tabela_hash) :heavy_multiplication_x:
 - [Heap Binaria](#heap_binaria) :heavy_multiplication_x:
@@ -52,3 +52,21 @@
 - <b>Empty</b> verifica se fila esta vazia.
 - <b>Length</b> verifica tamanho da fila.
 - <b>Front</b> busca elemento que está no começo da fila.
+
+
+<a id="deque"></a>
+### :loop: Deque
+
+- Uma fila Duplamente Terminada (ou Deque) é um tipo abstrato de dado que organiza uma fila.
+- Onde é posivel inserir e remover tanto do inicio como do fim.
+
+
+#### Metodos implementados
+
+- <b>Pop_front</b> remove do inicio da fila.
+- <b>Pop_back</b> remove do fim da fila.
+- <b>Push_back</b> adiciona no fim da fila.
+- <b>Push_front</b> adiciona no inicio da fila.
+- <b>Empty</b> verifica se fila esta vazia.
+- <b>Front</b> busca elemento que está no começo da fila.
+- <b>Back</b> busca elemento que está no fim da fila.
