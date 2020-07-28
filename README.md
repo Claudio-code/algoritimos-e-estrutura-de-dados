@@ -31,7 +31,7 @@
 <a id="pilha"></a>
 ### :large_orange_diamond: Pilha
 
-#### Estrutura
+#### Conseito
 
 - Adiciona dados no fim da pilha e remove dados no fim dela também ou onde o ultimo a entra é o primeiro a sair.
 - Alem de funcionalidades extras como consultar o tamanho e o topo da pilha e se ela está vazia ou não.
@@ -56,6 +56,8 @@
 
 <a id="deque"></a>
 ### :loop: Deque
+
+#### Conseito
 
 - Uma fila Duplamente Terminada (ou Deque) é um tipo abstrato de dado que organiza uma fila.
 - Onde é posivel inserir e remover tanto do inicio como do fim.
