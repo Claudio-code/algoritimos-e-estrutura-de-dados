@@ -24,7 +24,6 @@
 - [Arvore Binaria](#arvore_binaria) :heavy_multiplication_x:
 - [Lista Ligada](#lista_ligada) :heavy_multiplication_x:
 - [Grafos](#grafos) :heavy_multiplication_x:
-- [Grafos](#grafos) :heavy_multiplication_x:
 
 
 <hr>
