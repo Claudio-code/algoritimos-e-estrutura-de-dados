@@ -74,7 +74,7 @@
 - <b>Back</b> busca elemento que está no fim da fila.
 
 <a id="lista_ligada"></a>
-### :loop: lista ligada
+### :couple: lista ligada
 
 #### Conseito
 - A lista ligada é basicamente um array de objetos onde um sempre sabe qual é o proximo
