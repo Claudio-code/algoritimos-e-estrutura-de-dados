@@ -22,7 +22,7 @@
 - [Tabela Hash](#tabela_hash) :heavy_multiplication_x:
 - [Heap Binaria](#heap_binaria) :heavy_multiplication_x:
 - [Arvore Binaria](#arvore_binaria) :heavy_multiplication_x:
-- [Lista Ligada](#lista_ligada) :heavy_multiplication_x:
+- [Lista Ligada](#lista_ligada) :heavy_check_mark:
 - [Grafos](#grafos) :heavy_multiplication_x:
 
 
@@ -72,3 +72,16 @@
 - <b>Empty</b> verifica se fila esta vazia.
 - <b>Front</b> busca elemento que está no começo da fila.
 - <b>Back</b> busca elemento que está no fim da fila.
+
+<a id="lista_ligada"></a>
+### :loop: lista ligada
+
+#### Conseito
+- A lista ligada é basicamente um array de objetos onde um sempre sabe qual é o proximo
+
+#### Metodos implementados
+- <b>Pop</b> remove em qualquer lugar da lista.
+- <b>Push</b> adiciona em qualquer lugar da lista.
+- <b>Empty</b> verifica se a lista esta vazia.
+- <b>Length</b> verifica tamanho da lista.
+- <b>show</b> da print no conteudo da lista.
