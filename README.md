@@ -21,7 +21,7 @@
 - [Disionario](#disionario) :heavy_multiplication_x:
 - [Tabela Hash](#tabela_hash) :heavy_multiplication_x:
 - [Heap Binaria](#heap_binaria) :heavy_multiplication_x:
-- [Arvore Binaria](#arvore_binaria) :heavy_multiplication_x:
+- [Arvore Binaria de busca](#arvore_binaria) :heavy_check_mark:
 - [Lista Ligada](#lista_ligada) :heavy_check_mark:
 - [Grafos](#grafos) :heavy_multiplication_x:
 
@@ -85,3 +85,11 @@
 - <b>Empty</b> verifica se a lista esta vazia.
 - <b>Length</b> verifica tamanho da lista.
 - <b>show</b> da print no conteudo da lista.
+
+<a id="arvore_binaria"></a>
+### :book: arvore binaria de busca
+
+#### Conseito
+
+- A arvore é baseada em nós onde cada um possui um idice e a posição de cada nó varia de a cordo com o valor do indice.
+- Ex: o nó raiz é 89 vamos inserir o 92 como ele é maior nós o inserimos a direita, se formos inserir o 60 ele ficaria a esquerda e assim por diante.
